@@ -65,7 +65,7 @@ public class Product {
     }
 
     public List<Product> getAllProductsBy(ProductCategory productCategory) {
-
+        return -1;
     }
 
     public List<Product> getAllProductsBy(Supplier supplier) {
